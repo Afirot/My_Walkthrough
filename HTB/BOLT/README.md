@@ -105,7 +105,7 @@ In ```demo```, you cant log with admin user, BUT, with the code who I found in t
 
 ![Logo](images/image25.png)
 
-The account that I just created works in the ```mail``` page.
+The account who I just created works in the ```mail``` page.
 
 ![Logo](images/image8.png)
 
