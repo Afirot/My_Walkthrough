@@ -226,4 +226,4 @@ And, after this, we can see the root password
 
 ![Logo](images/image43.png)
 
-You can also do the privilege scalation with ```dirty pipe```, but this vulnerability was discovered after the creation of this CTF, so it's clear that this is not the path you're supposed to take.
+You can also scalate with ```dirty pipe```, but this vulnerability was discovered after the creation of this CTF, so it's clear that this is not the path you're supposed to take.
