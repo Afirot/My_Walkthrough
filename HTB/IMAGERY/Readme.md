@@ -103,7 +103,7 @@ And with that, I obtained a shell.
 
 After a while i found, in /var/backup, 2 interesting files.
 
-![Logo](images/image31.png)
+![Logo](images/image39.png)
 
 For some reason I found the root flag there — this must be an error — so I continued with the web backup.
 
