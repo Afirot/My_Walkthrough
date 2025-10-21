@@ -23,7 +23,7 @@ I scan this two services to reveal more information.
 nmap -p 22,8000 -sCV imagery.htb
 ```
 
-This reveal who, the http service in port 8000 is a python server.
+This reveal that the http service in port 8000 is a python server.
 
 ![Logo](images/image18.png)
 
