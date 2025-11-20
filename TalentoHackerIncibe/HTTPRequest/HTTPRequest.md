@@ -62,4 +62,5 @@ La ejecucion de este script devuelbe la siguiente cadena.
 
 Y, al decodificarlo, obtengo la flag del desafio.
 
-![log](img/image(2).png)
+
+![log](img/image(3).png)
